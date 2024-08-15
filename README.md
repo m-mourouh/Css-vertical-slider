@@ -1,1 +1,2 @@
-<a href="https://www.youtube.com/watch?v=QE1cugQggjk"><img height="auto" src="https://i9.ytimg.com/vi/QE1cugQggjk/maxresdefault.jpg?v=6266f2d4&sqp=CJCz-bUG&rs=AOn4CLC3-BEWnwVHuXm3oTeNYomJCq2l9g"/></a>
+<a href="https://www.youtube.com/watch?v=QE1cugQggjk">![image](https://github.com/user-attachments/assets/c75067d3-fcd2-447f-8e30-62bef5429621)
+</a>
