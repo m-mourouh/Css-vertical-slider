@@ -1,1 +1,1 @@
-<a href="https://www.youtube.com/watch?v=QE1cugQggjk"><img height="auto" src="[https://i9.ytimg.com/vi/QE1cugQggjk/maxresdefault.jpg?time=1664364300000&sqp=CIze0JkG&rs=AOn4CLDONyMkQ9niE1ij32ybYDktkrBzSw](https://i9.ytimg.com/vi/QE1cugQggjk/maxresdefault.jpg?v=6266f2d4&sqp=CJCz-bUG&rs=AOn4CLC3-BEWnwVHuXm3oTeNYomJCq2l9g)"/></a>
+<a href="https://www.youtube.com/watch?v=QE1cugQggjk"><img height="auto" src="https://i9.ytimg.com/vi/QE1cugQggjk/maxresdefault.jpg?v=6266f2d4&sqp=CJCz-bUG&rs=AOn4CLC3-BEWnwVHuXm3oTeNYomJCq2l9g"/></a>
